@@ -18,6 +18,7 @@ This data science portfolio is composed of multiple projects covering the full s
 
 ## Data Acquisition
 1. [Read data with different formats](./data-acquisition/read-data-multiple-formats.ipynb)
+2. [Web Scraping with BeautifulSoup](./data-acquisition/web-scraping-beautifulsoup.ipynb)
 ------------------------------------
 ## Data Processing
 ------------------------------------
