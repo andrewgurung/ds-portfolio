@@ -1,0 +1,549 @@
+,locality,dog_name,dangerous_dog_tag,address,city,zip
+0,Accomack County,Bentley,0156,22094 Sawyer Dr,Greenbush,23357
+1,Albemarle County,Jaxson Luis Alvarez,1538,580 Radford Lane #207,Charlottesville,22903
+2,Albemarle County,Kujo,2052,1398 Lonesome Mountain Hollow,Charlottesville,22903
+3,Albemarle County,Blockhead,1657,8095 Langhorn Road,Scottsville,24590
+4,Albemarle County,Max,2057,3558 Layton Drive,Charlottesville,22903
+5,Albemarle County,Chipper,2501,2420 Kimbrough Cir,Charlottesville,22901
+6,Albemarle County,Kingston,2055,1878 Secretarys Drive,Scottsville,24590
+7,Albemarle County,Bella (Belaya),1840,2285 Rose Hill Church Lane,Charlottesville,22902
+8,Albemarle County,Destiny,1530,245 Harris Branch Drive,North Garden,22959
+9,Albemarle County,Zoey,1653,4629 Briarwood  Drive,Charlottesville,22911
+10,Albemarle County,Roxy Perez,2502,5122 Boaz Road,Covesville,22931
+11,Albemarle County,Diesel,2503,3782 Presidents Road,Scottsville,24590
+12,Albemarle County,Rocky,2054,3493 Solitude Lane,Esmont,22937
+13,Alleghany County,Raina,UNK12,709 Chestnut St,Clifton Forge,24422
+14,Amelia County,Baby,19,751 Wills Road,Amelia,23002
+15,Amelia County,Duke,1446,5613 old Buckingham Road,Powhatan,23139
+16,Amherst County,Cassie,2254,330 Main Street,Madison Heights,24572
+17,Amherst County,Riley,2255,330 Main Street,Madison Heights,24572
+18,Amherst County,Ozzy,2256,685 Waughsferry Rd,Amherst,24521
+19,Appomattox County,Frack,Number 2,386 Cub Creek Road,Appomattox,24522
+20,Appomattox County,Lucas,1,386 Cub Creek Road,Appomattox,24522
+21,Arlington County,Briggs,1149,2812 S Joyce Street,Arlington,22202
+22,Arlington County,Smiley,1374,2138 N. Stafford St.,Arlington,22207
+23,Arlington County,Jaxx,138,2617 2nd Road N.,Arlington,22201
+24,Arlington County,Lacy,136,3831 N. Tazewell St.,Arlington,22207
+25,Arlington County,Lieutenant,124,5116 8th Road North,Arlington,22205
+26,Arlington County,Ares,135,5915 5th Rd. S.,Arlington,22204
+27,Augusta County,Rudy,1964,22 Neighbor St,Verona,24401
+28,Augusta County,Kylee,2075,385 Hermitage Road,Staunton,24401
+29,Bedford County,Leah,0179,1247 Sparrow Place,Forest,24551
+30,Bedford County,Carolina,2231,1060 Macon Loop,Lynchburg,24503
+31,Bedford County,Lilah,180,1060 Macon Loop,Lynchburg,24503
+32,Bedford County,Deuce,0178,4687 Oslin Creek Rd,Goode,24556
+33,Bedford County,Diesel,1971,1241 Sherry DR,Hardy,24101
+34,Botetourt County,JASMINE,01-2019,122 YORKTOWN ROAD,TROUTVILLE,24175
+35,Caroline County,Macy,UNK8,5501 Cedon Road,Woodford,22580
+36,Caroline County,Brody,UNK5,18095 Harding Drive,Bowling Green,22427
+37,Caroline County,Cooper,#6,25157 Hunters Lane,Ruther Glen,22546
+38,Carroll County,Bobo,0006,205 Upland Street,Hillsville,24343
+39,Carroll County,Luna,002,128 Ridge View Drive,Cana,24317
+40,Carroll County,Bo,5,480 Raintree Road,Hillsville,24343
+41,Charles City County,SAMSON,1153,5902 Cattail Road,Charles City,23030
+42,Charlotte County,Dixiie,#0003,145 Staunton Hill Road,Brookneal,24528
+43,Chesterfield County,Duke,2933,913 Glenhaven Rd.,N. Chesterfield,23236
+44,Chesterfield County,Kaci,2934,913 Glenhaven Rd.,N. Chesterfield,23236
+45,Chesterfield County,Holly,1353,3712 Ivyridge Drive,Chester,23831
+46,Chesterfield County,Princess,1215,11530 Riverpark Way,Chesterfield,23838
+47,Chesterfield County,Chance,1940,15805 Extermill Road,Chesterfield,23838
+48,Chesterfield County,Bella,1752,7721 Gallant Fox Ct.,Midlothian,23112
+49,Chesterfield County,PupPup,1749,1810 Bracken Road,North Chesterfield,23236
+50,Chesterfield County,Roxi,1640,1143 Westcreek Dr.,Richmond,23832
+51,Chesterfield County,Pepper,1641,1143 Westcreek Dr.,Richmond,23832
+52,Chesterfield County,Harley,2930,10231 Salem Oaks Dr.,N. Chesterfield,23237
+53,Chesterfield County,Hansel,2931,1710 Rosemill Circle,Midlothian,23112
+54,Chesterfield County,Blaze M,1936,14407 Twickenham Place,Chesterfield,23832
+55,Chesterfield County,LuLu,1937,14407 Twickenham Place,Chesterfield,23832
+56,Chesterfield County,Kenai,1934,5407 S. Jessup Road,Chesterfield,23832
+57,Chesterfield County,Red,1754,"601 Sunrise Five Way, Apt B",North Chesterfield,23236
+58,Chesterfield County,Grange,2929,4831 Hilbay Terrance,Moseley,23130
+59,Chesterfield County,Willow,2928,4831 Hilbay Terrance,Moseley,23130
+60,Chesterfield County,Blaze,1212,9304 Waterfall Cove Drive,Chesterfield,23832
+61,Chesterfield County,Roscoe,2935,6905 Elkhardt Rd,N. Chesterfield,23225
+62,Chesterfield County,Luna,2932/2625,2501 Blenheim Dr,N. Chesterfield,23234
+63,Chesterfield County,Lucky,1706,10400 Antwerp Rd.,N. Chesterfield,23235
+64,Chesterfield County,CoCo,1751,6240 Barrister Road,Chesterfield,23832
+65,Chesterfield County,Stumpy,1935,3525 Hemlock Road,Chester,23831
+66,Chesterfield County,Solomon,1703,2812 Cicero Parkway,Chester,23831
+67,Chesterfield County,Mable,1709,8511 Chester Forest Lane,N. Chesterfield,23237
+68,Chesterfield County,Tasha,1354,13512 Pharlap Court,Midlothian,23112
+69,Chesterfield County,Kimber,2926,3501 Oregon Oak Dr.,N. Chesterfield,23234
+70,Chesterfield County,Bash,2927,3501 Oregon Oak Dr.,N. Chesterfield,23234
+71,City of Alexandria,Macho,1340,5355 Taney Ave. #202,Alexandria,22304
+72,City of Alexandria,Henry,1337,305 Duke Street,Alexandria,22314
+73,City of Alexandria,Ava,2891,2705 Mosby St,Alexandria,22305
+74,City of Alexandria,Sender,2893,808 Junior St,Alexandria,22301
+75,City of Alexandria,Tipper,133,3502 16th Steet South,Arlington,22204
+76,City of Alexandria,Budreaux,2895,17 E Del Ray Ave,Alexandria,22301
+77,City of Alexandria,Otto,2897,203 Wolfe St,Alexandria,22314
+78,City of Alexandria,Mr. Peabody,1339,1210 Powhatan Street,Alexandria,22314
+79,City of Buena Vista,Lilly,018,144 E 9th St,Buena Vista,24416
+80,City of Charlottesville,Stryker,106,No fixed address,Charlottesville,22902
+81,City of Chesapeake,Cocoa,2084,2808 Point Harbor Ct,Chesapeake,23321
+82,City of Chesapeake,Sable,2083,2808 Point Harbor Ct,Chesapeake,23321
+83,City of Chesapeake,Jameson,1887,3133 Dunworken Dr,Chesapeake,23321
+84,City of Chesapeake,Dulce,1404,1601 Muscovy Ct,Chesapeake,23320
+85,City of Chesapeake,Ollie,600014,1120 Willow Avenue,Chesapeake,23325
+86,City of Chesapeake,Atreyu,2086,714 Wingfield Ave,Chesapeake,23324
+87,City of Chesapeake,Blue,2087,714 Wingfield Ave,Chesapeake,23324
+88,City of Chesapeake,Toe-Mater,2085,714 Wingfield Ave,Chesapeake,23324
+89,City of Chesapeake,Chunkey Butt/ Meric,2088,714 Wingfield Ave,Chesapeake,23324
+90,City of Colonial Heights,lulu,295,1309 Duke of Gloucester,Colonial Heights,23834
+91,City of Danville,Max,2543,539 Ricketts St,Danville,24540
+92,City of Danville,Louie,2541,247 Grenadier Circle,Danville,24541
+93,City of Danville,Baxter,2186,2341 Light St,Lynchburg,24501
+94,City of Danville,Italy,2542,109 Elwood Ave,Danville,24540
+95,City of Danville,Riddick,2544,208 Locust Ln,Danville,24540
+96,City of Fairfax,Serena,2615,10812 Charles Drive,"Fairfax,",22030
+97,City of Fredericksburg,Buddy,2036,704 Princess Anne Street,Fredericksburg,22401
+98,City of Fredericksburg,Chester,2315,137 Hillcrest Drive,Fredericksburg,22401
+99,City of Galax,Puppy,1757,104  1/2 Givens Street,Galax,24333
+100,City of Hampton,Max,2104,307 Raleigh Avenue,Hampton,23661
+101,City of Hampton,Tango,2105,3417 Candlewood Drive,Hampton,23666
+102,City of Hampton,Loyalty,2103,2700 Neal Street,Hampton,23661
+103,City of Hampton,Sacrifice,1676,2700 Neal Street,Hampton,23661
+104,City of Hampton,Sheba,1675,2010 Wood Avenue,Hampton,23664
+105,City of Harrisonburg,Blue,1833,572 Longview Drive,Harrisonburg,22802
+106,City of Hopewell,Zues,13,3308 Freeman Street,Hopewell,23860
+107,City of Hopewell,BUDDY,UNK13,2111 Lee Street,Hopewell,23860
+108,City of Lexington,Jambo,0748,108 East Preston Street,Lexington,24450
+109,City of Lynchburg,Peanut,460,114 Wheatland Ct.,Lynchburg,24503
+110,City of Lynchburg,Bones,10,6213 Narragansett Dr,Lynchburg,24502
+111,City of Lynchburg,SPIKE,445,5804 NAVAJO CIRCLE,LYNCHBURG,24502
+112,City of Manassas,Biggs,19-0416,9741 Beech Place,Manassas,20110
+113,City of Manassas,Luna,001198,9018 Old Hickory ct,Manassas,20110
+114,City of Manassas,Shadow,19-0456,9266 Taney Rd,Manassas,20110
+115,City of Manassas,Shadow,18-0939,9266 Taney Rd,Manassas,20110
+116,City of Manassas,Diesel,54527,8711 Libeu Dr,Manassas,20110
+117,City of Manassas,bandit,1300,9161 laurelwood ct,Manassas,20110
+118,City of Manassas Park,Cookie,1736,158 Baker St,Manassas Park,20111
+119,City of Newport News,Charlie,0883,16 Paddock Dr,Newport News,23606
+120,City of Newport News,Cocoa,12513,21 Old Oyster Point Rd room 319,Newport News,23602
+121,City of Newport News,Smokey,00889,131 Kerlin rd,Newport News,23601
+122,City of Newport News,Blaze,00888,131 Kerlin rd,Newport News,23601
+123,City of Newport News,Cash,01777,730 Flagship Dr,Newport News,23608
+124,City of Newport News,Kane,01778,730 Flagship Dr,Newport News,23608
+125,City of Newport News,Bull it,01776,730 Flagship Dr,Newport News,23608
+126,City of Newport News,Rex,00881,716 Mainsail,Newport News,23608
+127,City of Newport News,Bailey,0886,815 79th St,Newport News,23605
+128,City of Newport News,Wu,2094,619 73rd Street,Newport News,23605
+129,City of Norfolk,D.O.G.,0690,1732 South Lakeland Dr,Norfolk,23518
+130,City of Norfolk,Silvia,0693,"1129 Hullview Ave, A",Norfolk,23503
+131,City of Norfolk,Juno,2474,6110 Sunshine Avenue,Norfolk,23509
+132,City of Norfolk,Willow,2471,"244 Portview Ave, 4",Norfolk,23503
+133,City of Norfolk,BUDDY,2476,1343 BRANCH ROAD,NORFOLK,23513
+134,City of Norfolk,Sugar,0694,9549 Statler St,Norfolk,23503
+135,City of Norfolk,Gracie,2475,9247 Coleman Avenue,Norfolk,23503
+136,City of Norfolk,Thor,0692,2420 Saban Ave,Norfolk,23518
+137,City of Norfolk,Holli,0689,221 Woodview Ave,Norfolk,23505
+138,City of Norfolk,Raven,010,6210 Sunshine ave,Norfolk,23509
+139,City of Norfolk,Roxy,2472,3585 Norland Court,Norfolk,23513
+140,City of Norfolk,Cain,0691,5328 Silvey Dr.,Norfolk,23502
+141,City of Poquoson,Brownie,1781,15 Canal Dr,Poquoson,23662
+142,City of Portsmouth,Rigby,V0203,410 Sussex Dr,Portsmouth,23707
+143,City of Portsmouth,Rosie,V0204,310 Plover Dr,Portsmouth,23704
+144,City of Portsmouth,Ace,V0236,58 Aylwin Cresent,Portsmouth,23702
+145,City of Portsmouth,Hercules,V2402,4037 Kalona Rd,Portsmouth,23703
+146,City of Portsmouth,Tyson,V2403,4037 Kalona Rd,Portsmouth,23703
+147,City of Portsmouth,Mekai,V2404,4037 Kalona Rd,Portsmouth,23703
+148,City of Portsmouth,Kharlotte,V-0248,15 Connor Place,Portsmouth,23702
+149,City of Portsmouth,Blue Boy,V2405,3517 Brighton St,Portsmouth,23707
+150,City of Portsmouth,Piper,17-V0233,5104 Lake Circle,Portsmouth,23707
+151,City of Portsmouth,Skippy,V2416,213 Gee St,Portsmouth,23702
+152,City of Portsmouth,Fabian,17V0237,114 Ericsson st,Portsmouth,23702
+153,City of Portsmouth,Trouble,2413,4233 Summerset Dr,Portsmouth,23703
+154,City of Portsmouth,ROCKO,V0205,4121 Summerset Ave,PORTSMOUTH,23703
+155,City of Radford,ARES,0778,104 SUTHERLAND DRIVE,RADFORD,24141
+156,City of Richmond,Kolo,2497,2809 Griffin Ave,Richmond,23222
+157,City of Richmond,Mosby,0664,3121 Lost Ln,RICHMOND,23224
+158,City of Richmond,Champion,2492,3023 Woodrow Ave,Richmond,23220
+159,City of Richmond,Trigger,2494,3901 Autumn Lane,Richmond,23234
+160,City of Richmond,Angus,0670,4710 King William Road,Richmond,23225
+161,City of Richmond,Honey,2173,2906 Seminary Road,Richmond,23220
+162,City of Richmond,Odd,2491,822 W. 28th Street,Richmond,23225
+163,City of Richmond,Max,2493,1507 Perry Street,Richmond,23224
+164,City of Richmond,Eden,0149,1212 Keswick Lane,Richmond,23225
+165,City of Richmond,Isis,0658,2601 Kenmore Road,RICHMOND,23225
+166,City of Richmond,Salvador,0667,220 W. 30th St.,Richmond,23225
+167,City of Richmond,Bob,2495,3313 Stuart Ave,Richmond,23221
+168,City of Richmond,Ivan,2500,4812 Patterson Ave,Richmond,23226
+169,City of Richmond,Nala,0669,3982 Rebecca Rd.,RICHMOND,23234
+170,City of Roanoke,Gus,1980,2406 Deerfield CT SE,Roanoke,24014
+171,City of Roanoke,Shadow,1972,2028 Brandon Ave SW,Roanoke,24015
+172,City of Roanoke,Nina,1901,1651 Garstland DR NW,Roanoke,24017
+173,City of Roanoke,Home Boy,1975,1241 Greenhurst Ave NW,Roanoke,24012
+174,City of Roanoke,Kaine,1907,2505 Westover Ave SW,Roanoke,24015
+175,City of Roanoke,Duke,1904,1915 Brighton RD SW,Roanoke,24015
+176,City of Roanoke,Deuce,0730,1708 11th ST NW,Roanoke,24012
+177,City of Roanoke,Yogi,1428,2239 Sherwood Ave SW,Roanoke,24015
+178,City of Roanoke,Gabby,1973,2705 Frontage RD NW #129,Roanoke,24017
+179,City of Roanoke,Tres,1425,"5022 Youngwood Dr., NW",Roanoke,24017
+180,City of Roanoke,Nina,1424,"5022 Youngwood Dr., NW",Roanoke,24017
+181,City of Salem,Hachi,0781,1602 LYNCHBURG TPKE LOT #62,Salem,24153
+182,City of Salem,Jesse,0782,1811 Woodlawn Ave.,Salem,24153
+183,City of Salem,Maxx,0783,1520 W carrolton Ave,Salem,24153
+184,City of Salem,Lil Pup,2871,850 High St,Salem,24153
+185,City of Salem,Maurry,2873,463 Hemlock Road,Salem,24153
+186,City of Salem,Trouble,2874,470 Keesling Ave.,Sale,24153
+187,City of Staunton,Jazpir,2071,302 Institute St. Apt 1,Staunton,24401
+188,City of Staunton,Tippy,2076,1900 Ranson St,Staunton,24401
+189,City of Staunton,CRUELLA,2073,2715 Knollwood Dr,Staunton,24401
+190,City of Staunton,Bud,2077,2520-2 Bath St.,Staunton,24401
+191,City of Suffolk,Gator,00885,4417 Colreane Ave,Suffolk,23435
+192,City of Suffolk,Raleigh,2985,225 N. Saratoga,Suffolk,23434
+193,City of Virginia Beach,Max,2527,5344 Canterford Ln,Virginia Beach,23464
+194,City of Virginia Beach,Hannah,2215,704 Hampshire Pl #202,Virginia Beach,23462
+195,City of Virginia Beach,Rhyder,2521,1581 Indiana Av,Virginia Beach,23454
+196,City of Virginia Beach,Acts,2217,1581 Indiana Av,Virginia Beach,23454
+197,City of Virginia Beach,Max,2165,1569 Waff Rd,Virginia Beach,23464
+198,City of Virginia Beach,Keya,1888,332 Dauphin Ln,Virginia Beach,23452
+199,City of Virginia Beach,Jack,2401,1201 New Land Dr,Virginia Beach,23453
+200,City of Virginia Beach,Mozart,2213,966 Barrington Ct,Virginia Beach,23452
+201,City of Virginia Beach,Leia,2522,2280 Souverain Ln,Virginia Beach,23454
+202,City of Virginia Beach,Angel,2528,1809 Coral Bay Court,Virginia Beach,23455
+203,City of Virginia Beach,Rocky,2525,1926 Darnell Dr,Virginia Beach,23455
+204,City of Virginia Beach,Nayla,979,4612 Tony Lema Ln,Virginia Beach,23462
+205,City of Virginia Beach,Heff,978,4612 Tony Lema Ln,Virginia Beach,23462
+206,City of Virginia Beach,Tyson,1879,4832 Broomfield Av,Virginia Beach,23455
+207,City of Virginia Beach,Floyd,1890,3178 Adam Keeling Rd,Virginia Beach,23454
+208,City of Virginia Beach,Oakley,2206,233 Dalebrook Dr,Virginia Beach,23454
+209,City of Virginia Beach,Nala,2203,5881 Beechwalk Dr,Virginia Beach,23464
+210,City of Virginia Beach,Manny,1883,4433 Ocean View Ave  Unit A,Virginia Beach,23455
+211,City of Virginia Beach,Maka,2524,3753 Frazier Ln,Virginia Beach,23456
+212,City of Virginia Beach,Grimm,2212,3704 Seven Springs Ct,Virginia Beach,23453
+213,City of Virginia Beach,"Tobias ""Toby""",2209,533 Brian Ave,Virginia Beach,23462
+214,City of Virginia Beach,Savvy,2214,5036 Holly Farms Dr,Virginia Beach,23462
+215,City of Virginia Beach,Blu,2210,948 Fern Ridge Rd,Virginia Beach,23452
+216,City of Virginia Beach,Duke,2523,5801 Glen View Dr,Virginia Beach,23464
+217,City of Virginia Beach,Butch,2205,316 Dodge Dr,Virginia Beach,23452
+218,City of Virginia Beach,Black,2532,501 Rockport Lane Apt 1614,Virginia Beach,23454
+219,City of Virginia Beach,Lily,2530,145 Waverly Dr,Virginia Beach,23452
+220,City of Virginia Beach,Kipper,2529,145 Waverly Dr,Virginia Beach,23452
+221,City of Virginia Beach,Sox,2216,3304 Turtle Rock Dr,Virginia Beach,23452
+222,City of Virginia Beach,Mami,2220,3304 Turtle Rock Dr,Virginia Beach,23452
+223,City of Waynesboro,LUKE,#2011,2125 Pickett Road,Waynesboro,22980
+224,City of Waynesboro,NEKO,#1000,501 ROSSER AVE,WAYNESBORO,22980
+225,City of Winchester,Max,2481,125 Myrtle Avenue,Winchester,22601
+226,City of Winchester,Damu,2482,350 National Avenue,Winchester,22601
+227,City of Winchester,Miley,2483,239 Kern Street,Winchester,22601
+228,City of Winchester,Bash,1546,111 Roszel Road,Winchester,22601
+229,City of Winchester,Armani,1545,353 Virginia Avenue,Winchester,22601
+230,City of Winchester,Asia,1541,319 Fairview Avenue,Winchester,22601
+231,City of Winchester,Heide,1542,512 S Kent St,Winchester,22601
+232,Clarke County,Petey,2171,508 Burwell Ct.,Berryville,22611
+233,Clarke County,Zoey,1086,2197 Old Chapel Road,Boyce,22620
+234,Dinwiddie County,Ramsey,UNK10,17401 Hamilton Arms Ct,Dewitt,23840
+235,Dinwiddie County,Rachel,9,17401 Hamilton Arms Ct,Dewitt,23840
+236,Fairfax County ,Heady,2836,5529 Cedar Break Dr.,Centreville,20120
+237,Fairfax County ,Manny,1683,12720 Longleaf Lane,Herndon,20170
+238,Fairfax County ,Nino,2912,9819 Pebble Weigh Court,Burke,22015
+239,Fairfax County ,Tyson,2227,4107 Hamlin Ave.,Chantilly,20151
+240,Fairfax County ,Blue,2607,4008 Woodland Rd.,Annandale,22003
+241,Fairfax County ,Gigi,2994,5436 Brixham Ct.,Burke,22015
+242,Fairfax County ,Tucker,2909,8930 Jameson St.,Lorton,22079
+243,Fairfax County ,Rico,2608,7320 Essex Ave.,Springfield,22150
+244,Fairfax County ,Bobby,2992,1803 Anderson Rd.,Falls Church,22043
+245,Fairfax County ,Charlie (Cupid),1830,3981 Flagg Ct.,Chantilly,20151
+246,Fairfax County ,Drew,0095,10877 Murray Downs Court,Reston,20194
+247,Fairfax County ,Murray,0094,10877 Murray Downs Court,Reston,20194
+248,Fairfax County ,Pancho,2230,6207 Capella Ave.,Burke,22015
+249,Fairfax County ,AMY,2906,5931 Havener House Way,Centreville,20120
+250,Fairfax County ,Angus,1815,3217 Grassmere Court,Herndon,20171
+251,Fairfax County ,Sky,1829,6503 Virginia Hills Ave.,Alexandria,22310
+252,Fairfax County ,Mila,2440,2110 Robin Way Court,Vienna,22182
+253,Fairfax County ,Gulick,2614,3409 Putnam St.,Falls Church,22042
+254,Fairfax County ,Marley,1563,3202 Holly Hill Drive,Falls Church,22042
+255,Fairfax County ,Qunney,2229,8377 Dunham Ct.,Springfield,22152
+256,Fairfax County ,Stitch,2842,11729 Ledura Ct. #T-4,Reston,20191
+257,Fairfax County ,Hattori,2616,8549 Wyngate Manor Ct.,Alexandria,22309
+258,Fairfax County ,Flo,2604,13801 Springstone Dr.,Clifton,20124
+259,Fairfax County ,Zeus,2612,6520 Skylemar Trail,Centreville,20121
+260,Fairfax County ,Roque,2915,7706 Kirkside Dr.,Alexandria,22306
+261,Fairfax County ,Iggy,2843,11133 Pelham Lane,Fairfax,22030
+262,Fairfax County ,Bella,2844,11133 Pelham Lane,Fairfax,22030
+263,Fairfax County ,Trixie,2610,6513 Melia St.,Springfield,22150
+264,Fairfax County ,Scarlet,2196,5213 Belle Plains Dr.,Centreville,20120
+265,Fairfax County ,Chewy,2437,"1604 Washington Plaza, #200",Reston,20190
+266,Fairfax County ,Maya,2439,8318 Green Heron Way,Lorton,22079
+267,Fairfax County ,Appa,1737,182 Manassas Dr,Manassas Park,20111
+268,Fairfax County ,Griffin,2601,1005 Jeff Ryan Dr.,Herndon,20170
+269,Fairfax County ,Dome,2432,13720 Atlantis Street #319,Herndon,20171
+270,Fairfax County ,Marley,2611,6935 Mary Caroline Cir.,Alexandria,22310
+271,Fairfax County ,Pirlo,2438,6724 Lenchair St.,Alexandria,22306
+272,Fairfax County ,Ziggy,2605,7217 Roosevelt Ave.,Falls Church,22042
+273,Fairfax County ,Lilo,2606,7217 Roosevelt Ave.,Falls Church,22042
+274,Fairfax County ,KILO,2613,3860 Manzanita Pl.,Alexandria,22309
+275,Fairfax County ,Ozzie,2907,13169 Ruby Lace Ct.,Herndon,20171
+276,Fairfax County ,Einstein,2191,246 Springfield Rd.,Great Falls,22066
+277,Fairfax County ,Fiona,0895,6327 Halsey Road,McLean,22101
+278,Fairfax County ,Rocky,2433,3317 Wraywood Pl.,Falls Church,22042
+279,Fairfax County ,Ciena,1811,3213 Ox Meadow Court,Herndon,20171
+280,Fairfax County ,Rusty,2609,4166 Morrisons Way,Fairfax,22030
+281,Fauquier County,Jaws,2642,5665 Beverly's Mill Road,Broad Run,20137
+282,Fauquier County,Gator,2644,5542 Old Bust Head Rd,Broad Run,20137
+283,Fauquier County,TINA,0939,3667 SAGE RD,DELAPLANE,20144
+284,Fauquier County,TRACE,0937,11415 Crest Lane South,Bealeton,22712
+285,Fauquier County,Roscoe,2643,13130 Deep Run Mill Road,Goldvein,22720
+286,Fluvanna County,Puddin,043,220 Shores rd,palmyra,22963
+287,Fluvanna County,Pepper,049,972 Richmond rd,Keswick,22947
+288,Fluvanna County,KIA,045,619 Jefferson Drive,Palmyra,22963
+289,Fluvanna County,Bruce,42,2541 Deep Creek Rd,Palmyra,22963
+290,Fluvanna County,Sugar,0107,55 Foxtrot Ln.,Palmyra,22963
+291,Franklin County,Aro,12,1544 Mount Carmel Road,Rocky Mount,24151
+292,Franklin County,Ronin,2551,268 Key Lakewood Drive,Moneta,24121
+293,Frederick County,Bailey,2143,216 Sunset Circle,Cross Junction,22625
+294,Frederick County,Zoe,2602,449 Rolling Rd.,Winchester,22603
+295,Frederick County,Apollo,2148,111 Pittman Ct.,Stephens City,22655
+296,Frederick County,SUNNY,2141,611 Fawn Drive,Winchester,22602
+297,Frederick County,JoJo,1942,200 Sentinel Drive,Winchester,22603
+298,Frederick County,Buddha,1949,105 Keller Ct,Winchester,22602
+299,Frederick County,Lola,1943,1623 Laurel Grove Road,Winchester,22602
+300,Frederick County,Remy,1481,181 Hammack Lane,Winchester,22602
+301,Frederick County,Molley,1947,111 Lake Sever Drive,Winchester,22602
+302,Frederick County,Clipse,1946,227 Somerset Drive,Stephens City,22655
+303,Giles County,Brew,071-3,3473 Eggleston Rd,Eggleston,24136
+304,Giles County,Yoder ,071-2,504 Hopkins St,Narrows,24124
+305,Gloucester County,Magneto,2102,7309 Village Woods Lane,Gloucester,23061
+306,Gloucester County,Simba,2064,6759 Fields Landing Rd,Hayes,23072
+307,Gloucester County,Maya,2061,3793 Borden Road,Hayes,23072
+308,Gloucester County,Kato,2063,13003 George Washington Mem. Hwy.,Saluda,23149
+309,Gloucester County,Spicy,2062,13003 George Washington Mem. Hwy.,Saluda,23149
+310,Greene County,Dominic     [ Dom ],2651,41 Nursery lane,Stanardsville,22973
+311,Greensville County,Nana,1181,223 Bowen Road,Emporia,23847
+312,Hanover County,Andie,1126,6193 Dijon Drive,Mechanicsville,23111
+313,Hanover County,Dexter,1490,101 Sunny Drive,Ashland,23005
+314,Hanover County,Chief,1491,101 Sunny Drive,Ashland,23005
+315,Hanover County,Wrangler,0665,605 Old Station Street,Ashland,23005
+316,Hanover County,Bodie,2681,6307 Bonniefield court,Mechanicsville,23111
+317,Hanover County,Zuzo,1125,9078 Craney Island road,Mechanicsville,23116
+318,Henrico County ,Dutch,2010,4050 Gaskins Rd,Glen Allen,23059
+319,Henrico County ,Arlo,2008,2411 Fon du Lac,Henrico,23229
+320,Henrico County ,Minnie,1466,2904 Greenwing Pl,Henrico,23231
+321,Henrico County ,Dutchess,VA8,1229 Clayton Rd,Henrico,23238
+322,Henrico County ,Leila,2001,5507 Raleigh Rd,Henrico,23231
+323,Henrico County ,Rupert,1463,430 N. Parham Rd,Henrico,23229
+324,Henrico County ,Rocco,2007,212 S. Holly Ave,Henrico,23075
+325,Henrico County ,Eloise,1464,9709 Timber Pass,Glen Allen,23060
+326,Henrico County ,Stich,2002,10113 Heritage Ln,Glen Allen,23060
+327,Henrico County ,Mocha,1461,1613 Glenside Drive,Henrico,23226
+328,Henrico County ,Kujo,2009,2611 Redwing Ln,Henrico,23231
+329,Henry County,Roxie,0141,57 Appleleaf Dr.,Bassett,24055
+330,Henry County,Laila,0140,155 Windover St.,Ridgeway,24148
+331,Henry County,Maggie,2133,83 Textile Dr.,Ridgeway,24148
+332,Henry County,Ada,2132,83 Textile Dr.,Ridgeway,24148
+333,Henry County,Dallas,0144,159 Lee. St.,Collinsville,24078
+334,Highland County,Wren Biscuit,230,180 Pitty Pat Ln,Mcdowell,24458
+335,Isle of Wight County,Lola,2377,13194 Track Lane,Smithfield,23430
+336,James City County,Scout,0932,169 The Maine,Williamsburg,23185
+337,James City County,Callie,0930,376 Merrimac Trail #612,Williamsburg,23185
+338,James City County,Loki,2814,8610 Parkland Terrace,Toano,23168
+339,James City County,Starr,2816,5315 Queen Bishop Lane,Williamsburg,23185
+340,James City County,Patti,0931,4047 Coronation,Williamsburg,23188
+341,King George County,SAMPSON,1580,13289 Johnson Road,King George,22485
+342,King George County,Khala,2336,13061 Bradley Lane,King George,22485
+343,King George County,RENO,0241,5340 POTOMAC DR,KING GEORGE,22485
+344,King George County,Ranger,1582,6187 McCarthy Drive,King George,22485
+345,King George County,MOCHA,1577,16127 RIDGE RD,KING GEORGE,22485
+346,King George County,BOONE,1576,16127 RIDGE RD,KING GEORGE,22485
+347,King George County,Ciroc,1574,12567 Kent rd,King George,22485
+348,King George County,Salley,0524,7470 Mattaponi Lane,King George,22485
+349,King William County,Zeus,0251,62 Churchville Rd,West Point,23181
+350,Lancaster County,"""Jack""",0255,80 Chase Street,Kilmarnock,22483
+351,Lee County,Triton,3,286 Starburst Dr.,Pennington Gap,24277
+352,Lee County,Ranger,UNK7,286 Starburst Dr.,Pennington Gap,24277
+353,Lee County,Dusty,2047,683 U.S Highway 421,Pennington Gap,24277
+354,Lee County,Warrior,6,13915 State Route 606,Keokee,24265
+355,Lee County,Jane,2042,4526 U.S Highway 421,Pennington Gap,24277
+356,Lee County,Daisy,2041,4526 U.S Highway 421,Pennington Gap,24277
+357,Loudoun County,Angel,0390,252 N. Cottage Rd.,Sterling,20164
+358,Loudoun County,Kimber,2296,823 Balls Bluff Rd.,Leesburg,20176
+359,Loudoun County,Angel,2279,"404 Tracy Court, N.E.",Leesburg,20176
+360,Loudoun County,Cody,1601,116 Seneca Chase Ct.,Sterling,20164
+361,Loudoun County,Blue,1603,43364 Clarecastle Drive,Chantilly,20152
+362,Loudoun County,Chico,2180,18419 Sierra Springs Sq.,Leesburg,20176
+363,Loudoun County,Bandit,1352,24103 Mercers Crossing Court,Aldie,20105
+364,Loudoun County,Maggie,2294,315 Baish Drive,Leesburg,20175
+365,Loudoun County,Caden,1614,102 W Laurel Ave,Sterling,20164
+366,Loudoun County,Hemi,2283,20250 Woodtrail Rd.,Round Hill,20141
+367,Loudoun County,Sonny,0304,9 Ferguson Court,Sterling,20165
+368,Loudoun County,Ella,2276,871 Stonefield Sq. NE,Leesburg,20176
+369,Loudoun County,Niki,1805,47540 Compton Circle,Sterling,20165
+370,Loudoun County,Bailey,2175,704 East Roanoke Drive,Sterling,20164
+371,Loudoun County,Blaze,1726,252 N. Cottage Rd.,Sterling,20164
+372,Loudoun County,Canella,0384,252 N. Cottage Rd.,Sterling,20164
+373,Loudoun County,Rocko,2273,25707 Donerails Chase Dr.,Chantilly,20152
+374,Loudoun County,Gypsi,1727,100 Charing Ct.,Sterling,20164
+375,Loudoun County,Rocko,2284,43649 Lees Mill Square,Leesburg,20176
+376,Loudoun County,Fiona,2282,24276 Yellow Hammer Ct.,Aldie,20105
+377,Loudoun County,Ziggy,1382,12371 Taylorstown Rd.,Lovettsville,20180
+378,Loudoun County,Ruby,1390,44430 Cruden Bay Dr.,Ashburn,20147
+379,Loudoun County,Spike,0316,830 Kenneth Place S.E.,Leesburg,20175
+380,Loudoun County,Bob,1808,21062 View Glass Ter,Sterling,20164
+381,Loudoun County,Roxy,2174,825 Kenneth Place,Leesburg,20175
+382,Loudoun County,Cecil,1393,43488 Quentin Street,Chantilly,20152
+383,Loudoun County,Maggot,1734,20461 Swan Creek Court,Sterling,20165
+384,Loudoun County,Grizzly,2277,43352 Vestals Place,Leesburg,20176
+385,Loudoun County,Misty,2300,16621 Elk Run Ct.,Leesburg,20176
+386,Loudoun County,Sierra,2285,16621 Elk Run Ct.,Leesburg,20176
+387,Loudoun County,Ace,1609,25126 Fortitude Terrace,South Riding,20152
+388,Loudoun County,Essex,1606,17226 Greenwood Drive,Round Hill,20141
+389,Loudoun County,Sora,2291,135 Burnell Place,Leesburg,20175
+390,Loudoun County,Galileo,2278,17551 Old Waterford Road,Leesburg,20176
+391,Loudoun County,Rocco,2761,44008 Kings Arms Sq.,Ashburn,20147
+392,Loudoun County,Ruger,1380,35136 Harry Byrd Hwy.,Round Hill,21041
+393,Loudoun County,Ace,2295,812 N. Sterling Bvd.,Sterling,20164
+394,Loudoun County,Thane,1617,229 N. King Street,Leesburg,20176
+395,Loudoun County,Luna,2287,40109 Charles Town Pike,Hamilton,20158
+396,Loudoun County,Kaylee,1802,16569 Levade Dr,Leesburg,20176
+397,Loudoun County,Baileys,1395,12314 Harpers Ferry Rd,Neersville,20132
+398,Loudoun County,Diamond,2177,43109 Forest Edge Sq.,Broadlands,20148
+399,Louisa County,Chesney,2361,330 Smith Family Road,Louisa,23093
+400,Mathews County,Raven,0654,15 Old Cherry Point Road,Grimstead,23064
+401,Montgomery County,Nala,0291,3555 Fairview Church Rd,Christiansburg,24073
+402,Montgomery County,Tinker,0290,3392 Ironto Road,Elliston,24087
+403,Montgomery County,Valentine,1590,614 Cedar Hill Drive,Blacksburg,24060
+404,Montgomery County,Little Joe,0287,2635 Craig Creek Road,Blacksburg,24060
+405,Nelson County,Jase,2847,84 Tye Brook Hwy,Piney River,22964
+406,Nelson County,Max,2848,282 Pullets Place,Nellysford,22958
+407,Nelson County,WHO,0014,178 Ponton Lane,Lovingston,22949
+408,Nelson County,Buttercup,0828,3342 Tye River Rd,Amherst,24521
+409,New Kent County,Bella,2592,2800 D. Diascund Reservoir,Lanexa,23089
+410,New Kent County,Bay,2591,7011 Old Roxbury Rd,Quinton,23141
+411,New Kent County,Mona,0960,425 Four Island Trail,Lanexa,23089
+412,New Kent County,Sadie,0961,6506 Ware Rd,Quinton,23141
+413,Nottoway County,Brooklyn ,0408,104 1/2 E. Pennsylvania Avenue,Crewe,23930
+414,Orange County,LOKI,2802,8010 PINESTAKE RD,RHOADESVILLE,22542
+415,Orange County,Cesar,1371,280 Parker PL,Orange,22960
+416,Orange County,Noisey,1926,210 Boxley Ln,Orange,22960
+417,Orange County,Buster,1922,6284 Browning Rd,Culpeper,22701
+418,Orange County,Snowball,1921,191 Spicers Mill Rd,Orange,22960
+419,Page County,Lucy,1005,382 Airstrip Road,Luray,22835
+420,Page County,Rusty (Russell),1001,165 Chapel Road Apt. 1-A,Stanley,22851
+421,Page County,Jasper,1006,120 Jessie Mae Ln.,Luray,22835
+422,Page County,Blaze,01901,368 Forgotten Lane,Elkton,22827
+423,Patrick County,Kitty,0413,504 Trent Store Ln,Spencer,24165
+424,Patrick County,Gronk,0414,504 Trent Store Ln,Spencer,24165
+425,Patrick County,Tucker,03,136 Gold Dust Lane,Fancy Gap,24328
+426,Pittsylvania County,Grimm,2025,113 Hunters Rdg,Danville,24540
+427,Pittsylvania County,Dixie,2024,901 Stony Mill Rd,Danville,24540
+428,Pittsylvania County,Hank,2022,3349 Horseshoe Rd.,Danville,24541
+429,Powhatan County,Semper,1447,1865 Ballsville Road,Powhatan,23139
+430,Prince George County,Skipper,1664,3928 Puddledock Rd,Prince George,23875
+431,Prince William County,Charlie,2461,7018 Rogue Forest Lane,Gainesville,20155
+432,Prince William County,Niko,2830,15044 Silver Leaf Ct.,Dumfries,22025
+433,Prince William County,Noroku,2824,18117 Purvis Lane Apt B,Triangle,22172
+434,Prince William County,Lucas,2368,3803 Cordell Ave,Woodbridge,22193
+435,Prince William County,Ace,1993,15407 Ohio Ave,Woodbridge,22191
+436,Prince William County,Alaina,1301,12001 Snapshot Ct,Nokesville,20181
+437,Prince William County,Scar,1989,1717 Carter Lane,Woodbridge,22191
+438,Prince William County,Muggs,1984,1717 Carter Lane,Woodbridge,22191
+439,Prince William County,Myea,0444,12770 LeMaster Drive,Nokesville,20181
+440,Prince William County,Lilly,0445,12770 LeMaster Drive,Nokesville,20181
+441,Prince William County,Shorty,1995,14131 Baneberry Circle,Manassas,20112
+442,Prince William County,Milo,1765,15147 Georgia Road,Woodbridge,22191
+443,Prince William County,Maya,2451,13984 Chelmsford Drive,Gainesville,22155
+444,Prince William County,King,2249,12373 Manchester Way,Lake Ridge,22192
+445,Prince William County,Toby,2454,14398 Stella Court,Woodbridge,22193
+446,Prince William County,Tigressa,1770,144 Washington Street,Occoquan,22125
+447,Prince William County,Charlie,2244,3737 Hetten Lane,Woodbridge,22193
+448,Prince William County,Cookie,2456,7424 Boundary Ave,Manassaas,22111
+449,Prince William County,Bailey,1998,4717 Kentwood Lane,Woodbridge,22193
+450,Prince William County,Charlotte,1999,4717 Kentwood Lane,Woodbridge,22193
+451,Prince William County,Cha Chi,1681,13571 Crider Crest Place apt 102,Woodbridge,22191
+452,Prince William County,Duke,2470,13542 Polar Court,Woodbridge,22193
+453,Prince William County,Gooby,2458,14160 Landon Lane,Woodbridge,22193
+454,Prince William County,Max,2375,12111 Tamar Court,Bristow,20136
+455,Prince William County,Max,2243,8161 Honey Bee Way #203,Manassas,20111
+456,Prince William County,Romeo,1503,5842 Riverside Drive,Dale City,22193
+457,Prince William County,Loky,0448,3807 Fillmore Drive,Woodbridge,22193
+458,Prince William County,Chispa,1997,15216 Micigan Road,Woodbridge,22191
+459,Prince William County,Riley,2455,12506 Colby Drive,Woodbridge,22192
+460,Prince William County,Cleo,2825,12001 Rocky Brooke Court,Manassas,20112
+461,Prince William County,Baby,1570,17613 Overlook Rd.,Dumfries,22026
+462,Prince William County,Cooper,2826,10704 Schaeffer Lane,Nokesville,20181
+463,Prince William County,Big Poppa,0453,5363 Satterfield Drive,Woodbridge,22193
+464,Prince William County,Lady,2245,12968 Luca Station Way,Woodbridge,22192
+465,Prince William County,K.O. ,2457,1707 Iowa Ct,Woodbridge,22191
+466,Prince William County,Missy,2242,1707 Iowa Ct,Woodbridge,22191
+467,Prince William County,Scrappy,1501,14694 Cloyd Way,Woodbridge,22193
+468,Prince William County,King,2833,5725 Rhode Island Drive,Woodbrige,22193
+469,Prince William County,Katie,2452,15692 Buck Lane,Dumfries,22025
+470,Prince William County,Maggie,2453,15692 Buck Lane,Dumfries,22025
+471,Prince William County,Selosa,2832,3314 Bradford Street,Woodbridge,22193
+472,Prince William County,Scout,2246,5980 Lyceum lane,Manassas,29112
+473,Prince William County,Ella Mae,1988,7324 Sheraton Drive,Manassas,20112
+474,Pulaski County,BoBo,2389,3224 Schrader HIll Rd,Pulaski,24301
+475,Pulaski County,Deuce,2390,3224 Schrader Hill ln,Pulaski,24301
+476,Pulaski County,Kiba,2381,6463 Lewis Lane,New River,24129
+477,Pulaski County,Bolt,2382,6837 Depot Rd,Belspring,24058
+478,Rappahannock County,Diesel,0459,113 Ridge Drive,Chester Gap,22623
+479,Roanoke County,Beamer,1692,6807 Village Green Dr,Roanoke,24019
+480,Roanoke County,Heidi,1693,6422 Corntassle Ln,Roanoke,24018
+481,Roanoke County,Jameson,1696,8893 Poor Mtn Rd,Bent Mtn,24059
+482,Roanoke County,Heidi,1437,5632 Southern Pine Drive,Roanoke,24018
+483,Roanoke County,Dakota,1695,3515 Greencliff Rd,Roanoke,24018
+484,Roanoke County,Dakota,1694,3515 Greencliff Rd,Roanoke,24018
+485,Rockbridge County,Sampson,1026,398 Steeles Fort road,Raphine,24472
+486,Rockbridge County,Gunney,1029,24 Cohee lane,Fairfield,24435
+487,Rockbridge County,Jake,24,474 Hoppers Creek Road,Natural Bridge,24579
+488,Rockbridge County,Mia,006,1964 Oak Ave,Buena Vista,24416
+489,Rockingham County,Junior,838,3987 Track Side Drive,Elkton,22827
+490,Rockingham County,Rocky,0835,153 Bellevue St,Timberville,22853
+491,Rockingham County,CHARLIE,0839,403 East Rockingham St,Elkton,22827
+492,Shenandoah County,Leonidas,2964,12392,Toms Brook,22660
+493,Shenandoah County,Koda,2963,347 Breckenridge Ct,Strasburg,22657
+494,Shenandoah County,Bellah,1912,25 Strudel Court,Bayse,22810
+495,Shenandoah County,Storm,15,4159 S. Middle Rd,Quicksburg,22847
+496,Shenandoah County,Marley,2956,1115 Sheetz Mill Rd,Woodstock,22664
+497,Shenandoah County,Riley,2960,295 Harmony Ln,Edinburg,22824
+498,Shenandoah County,Bandit,2561,435 Beeler Dr,Strasburg,22657
+499,Smyth County,Sambo,856,484 Riverside Road,Chilhowie,24319
+500,Smyth County,Blaze,0860,108 Malvern Lane,Marion,24354
+501,Spotsylvania County,Rusty,2039,10602 King Eider Court,Spotsylvania,22553
+502,Spotsylvania County,Bello,2311,10906 Longleaf Court,Fredericksburg,22407
+503,Spotsylvania County,Tyson,2581,11700 Duchess Drive,Fredericksburg,22408
+504,Spotsylvania County,Rony,2319,10713 Peach Tree Drive,Fredericksburg,22407
+505,Spotsylvania County,Lexi,2318,5825 Horse Creek Lane,Partlow,22534
+506,Spotsylvania County,FRED,1929,6016 W. Copper Mountain Road,Spotsylvania,22553
+507,Spotsylvania County,Rebel,2582,5508 Slater Street,Fredericksburg,22407
+508,Spotsylvania County,Capone,1359,5110 Berclair Plantation Lane,Fredericksburg,22408
+509,Spotsylvania County,Casper,2033,6700 Timberbrook Lane,Spotsylvania,22551
+510,Stafford County,CRANK,0536,39 GLEN OAK RD.,FREDERICKSBURG,22405
+511,Stafford County,WAFFLES,0550,16 FOX RUN LANE,FREDERICKSBURG,22405
+512,Stafford County,OVI,0551,16 FOX RUN LANE,FREDERICKSBURG,22405
+513,Stafford County,SAM,0534,33 PINE HILL ROAD,FREDERICKSBURG,22406
+514,Stafford County,RUGER,0546,88 twin hill lane,STAFFORD,22554
+515,Stafford County,Roxxy,0527,30 Del Mar Lane,Fredericksburg,22406
+516,Stafford County,Chance,0553,17 Calvin Ct,Stafford,22556
+517,Stafford County,Dakota,0554,17 Calvin Ct,Stafford,22554
+518,Stafford County,Nikki,0547,114 Riggs Rd,Fredericksburg,22405
+519,Stafford County,ROCKO,0533,15 CLEAR LANE,FREDERICKSBURG,22406
+520,Stafford County,BLITZ,0528,1129 ATLANTIC DRIVE,STAFFORD,22554
+521,Stafford County,Casey,0540,227 Rock Raymond Dr,Stafford,22554
+522,Stafford County,Nicki,0537,18 Willow Branch Dr,Fredericksburg,22405
+523,Stafford County,Darcey,0552,303 Walnut Drive,Fredericksburg,22405
+524,Surry County,Bricks,2856,1915 Moonlight Road (Dogs Deserve Better),Smithfield,23430
+525,Surry County,DESNITY,2741,1105 ALLIANCE ROAD,SURRY,23883
+526,Tazewell County,Conley,02,203 Taft Lane,Bluefield,24605
+527,Town of Clifton Forge,Neko,1278,642 Jefferson Avenue,Clifton Forge,24422
+528,Town of Marion,Mack,2697,237 NORTH CHESTNUT STREET,MARION,24354
+529,Town of Marion,BEAR,2996,237 NORTH CHESTNUT STREET,MARION,24354
+530,Town of Marion,Tyson,2999,154 Paxton Lane,Marion,24354
+531,Town of Vienna,Indy,0697,404 Holmes Ct. NW,Vienna,22180
+532,Warren County,Rebel,1512,185 Apple Orchard Drive,Linden,22642
+533,Warren County,Batman,2664,304 Ritenour Street,Front Royal,22630
+534,Warren County,Ruca,1514,123 Virginia Ave,Front Royal,22630
+535,Warren County,Tyson,1715,499 Rome Beauty Drive,Linden,22642
+536,Warren County,Poppop,1516,709 Midland Ave,Front Royal,22630
+537,Warren County,Kira,1717,751 W 13th St,Front Royal,22630
+538,Warren County,Lucy,1718,751 W 13th St,Front Royal,22630
+539,Warren County,Oshie,1713,537 Summit Point Drive,Front Royal,22630
+540,Warren County,Logan,1714,1520 John Marshall Hwy,Front Royal,22630
+541,Warren County,Miley,2661,43 Sassy Lane,Front Royal,22630
+542,Warren County,Jackson,2662,43 Sassy Lane,Front Royal,22630
+543,Warren County,BO,2663,615 New Avenue,Front Royal,22630
+544,Westmoreland County,Tyson,003,"68 Tiana Way, P.O. Box 165",Mt. Holly,22524
+545,Wise County,Brutus,0560,217 Shawnee Ave West,Big Stone Gap,24219
+546,Wise County,Josie Bell Wright,0565,209 Azalea Drive,Wise,24293
+547,York County,Riley,0151,315 Waller Mill Rd,Williamsburg,23185
