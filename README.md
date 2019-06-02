@@ -8,23 +8,24 @@ This data science portfolio is composed of multiple projects covering the full s
 ------------------------------------
 
 ## Portfolio
-1. [Data Acquisition](#1-data-acquisition)
-2. [Data Processing](#2-data-processing)
-3. [Data Exploration](#3-data-exploration)
-4. [Modeling](#4-modeling)
-5. [Model deployment](#5-model-deployment)
-6. [End-to-end Project](#6-end-to-end-project)
+- [Data Acquisition](#1-data-acquisition)
+- [Data Processing](#2-data-processing)
+- [Data Exploration](#3-data-exploration)
+- [Modeling](#4-modeling)
+- [Model deployment](#5-model-deployment)
+- [End-to-end Project](#6-end-to-end-project)
 ------------------------------------
 
-## 1. Data Acquisition
+## Data Acquisition
+1. [Read data with different formats](./data-acquisition/read-data-multiple-formats.ipynb)
 ------------------------------------
-## 2. Data Processing
+## Data Processing
 ------------------------------------
-## 3. Data Exploration
+## Data Exploration
 ------------------------------------
-## 4. Modeling
+## Modeling
 ------------------------------------
-## 5. Model deployment
+## Model deployment
 ------------------------------------
-## 6. End-to-end Project
+## End-to-end Project
 ------------------------------------
