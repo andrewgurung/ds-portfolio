@@ -21,6 +21,7 @@ This data science portfolio is composed of multiple projects covering the full s
 2. [Web Scraping with BeautifulSoup](./data-acquisition/web-scraping-beautifulsoup.ipynb)
 ------------------------------------
 ## Data Processing
+1. [Split data into train and test sets](./data-processing/split-data-train-test.ipynb)
 ------------------------------------
 ## Data Exploration
 ------------------------------------
