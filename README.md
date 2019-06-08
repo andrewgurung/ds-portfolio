@@ -22,6 +22,7 @@ This data science portfolio is composed of multiple projects covering the full s
 ------------------------------------
 ## Data Processing
 1. [Split data into train and test sets](./data-processing/split-data-train-test.ipynb)
+2. [Handling missing data and outliers](./data-processing/handling-missing-data-and-outliers.ipynb)
 ------------------------------------
 ## Data Exploration
 ------------------------------------
